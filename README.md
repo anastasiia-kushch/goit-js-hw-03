@@ -1,4 +1,4 @@
-# goit-js-hw-02
+# goit-js-hw-03
 
 This repository contains three JavaScript functions solving different tasks.
 
